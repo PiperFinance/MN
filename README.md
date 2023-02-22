@@ -11,17 +11,17 @@
 
 - #### Portfolio
   Users easily track and manage their funds on Mantle network and other supported chains
-  ![Piper Landing](portfolio.png)
+  ![Portfolio](portofolio.png)
   
 - #### Transactions List
   Users can check transaction history on their wallets
-  ![Piper Landing](transaction.png)
+  ![Transactions](transaction.png)
   
 - #### Bridge
   Users can bridge $BIT from layer1("Goerli") to Mantle network
-  ![Piper Landing](bridge.png)
+  ![Bridge](bridge.png)
 
 - #### Approval
   Users can control their allowances
-  ![Piper Landing](apporval.png)
+  ![Approval](approval.png)
 
