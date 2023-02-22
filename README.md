@@ -1,6 +1,5 @@
 # Piper
-  All-in-one tool for every user in the blockchain area
-- [URL: Piper Landing](https://piper.finance/)
+  All-in-one tool for every user in the blockchain area [Piper Landing](https://piper.finance/)
 ![Piper Landing](landing.png)
 ## LINKS
 - [URL: Piper Mainnet version](https://app.piper.finance/)
